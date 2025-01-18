@@ -61,8 +61,8 @@ weatherDataEngineering/
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
-cd weatherDataEngineering
+git clone https://github.com/apih99/weather-dashboard.git
+cd weather-dashboard
 ```
 
 2. Create and activate virtual environment:
